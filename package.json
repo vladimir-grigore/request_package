@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vladimir-grigore/request_package/issues"
   },
-  "homepage": "https://github.com/vladimir-grigore/request_package#readme"
+  "homepage": "https://github.com/vladimir-grigore/request_package#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
